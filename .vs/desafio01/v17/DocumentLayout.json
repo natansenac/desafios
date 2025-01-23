@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\",
+  "WorkspaceRootPath": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3BBCCEE-3D84-4CB3-99A2-52DAA523552D}|desafio03\\desafio03.csproj|c:\\users\\natan.vpedroso\\source\\repos\\desafio01\\desafio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00B6D005-3C06-4E6D-86D0-9A9BACAF0C9D}|desafio05\\desafio05.csproj|c:\\users\\natan.vpedroso\\source\\repos\\desafios\\desafio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B6D005-3C06-4E6D-86D0-9A9BACAF0C9D}|desafio05\\desafio05.csproj|solutionrelative:desafio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BBCCEE-3D84-4CB3-99A2-52DAA523552D}|desafio03\\desafio03.csproj|c:\\users\\natan.vpedroso\\source\\repos\\desafios\\desafio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3BBCCEE-3D84-4CB3-99A2-52DAA523552D}|desafio03\\desafio03.csproj|solutionrelative:desafio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9CA9A21-8455-4869-AF2C-C5611FE59EB0}|desafio04\\desafio04.csproj|c:\\users\\natan.vpedroso\\source\\repos\\desafio01\\desafio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9CA9A21-8455-4869-AF2C-C5611FE59EB0}|desafio04\\desafio04.csproj|c:\\users\\natan.vpedroso\\source\\repos\\desafios\\desafio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9CA9A21-8455-4869-AF2C-C5611FE59EB0}|desafio04\\desafio04.csproj|solutionrelative:desafio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F6BB6F-9858-4149-BDDB-10B0AA9EA704}|desafio01\\desafio01.csproj|c:\\users\\natan.vpedroso\\source\\repos\\desafio01\\desafio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84F6BB6F-9858-4149-BDDB-10B0AA9EA704}|desafio01\\desafio01.csproj|c:\\users\\natan.vpedroso\\source\\repos\\desafios\\desafio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F6BB6F-9858-4149-BDDB-10B0AA9EA704}|desafio01\\desafio01.csproj|solutionrelative:desafio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B99C8425-6300-477C-8A2D-F5773E4A4761}|desafio02\\desafio02.csproj|c:\\users\\natan.vpedroso\\source\\repos\\desafio01\\desafio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B99C8425-6300-477C-8A2D-F5773E4A4761}|desafio02\\desafio02.csproj|c:\\users\\natan.vpedroso\\source\\repos\\desafios\\desafio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B99C8425-6300-477C-8A2D-F5773E4A4761}|desafio02\\desafio02.csproj|solutionrelative:desafio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,28 +30,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\desafio04\\Program.cs",
-              "RelativeDocumentMoniker": "desafio04\\Program.cs",
-              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\desafio04\\Program.cs",
-              "RelativeToolTip": "desafio04\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T23:23:00.221Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\desafio03\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio05\\Program.cs",
+              "RelativeDocumentMoniker": "desafio05\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio05\\Program.cs",
+              "RelativeToolTip": "desafio05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:32:17.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio04\\Program.cs",
+              "RelativeDocumentMoniker": "desafio04\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio04\\Program.cs",
+              "RelativeToolTip": "desafio04\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:23:00.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio03\\Program.cs",
               "RelativeDocumentMoniker": "desafio03\\Program.cs",
-              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\desafio03\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio03\\Program.cs",
               "RelativeToolTip": "desafio03\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,29 +72,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\desafio02\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio02\\Program.cs",
               "RelativeDocumentMoniker": "desafio02\\Program.cs",
-              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\desafio02\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio02\\Program.cs",
               "RelativeToolTip": "desafio02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:40:24.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T22:40:24.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\desafio01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio01\\Program.cs",
               "RelativeDocumentMoniker": "desafio01\\Program.cs",
-              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\desafio01\\Program.cs",
+              "ToolTip": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio01\\Program.cs",
               "RelativeToolTip": "desafio01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:29:24.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T22:29:24.766Z"
             }
           ]
         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\desafio04\\desafio04.csproj",
+      "projectUniqueName": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio04\\desafio04.csproj",
       "projectName": "desafio04",
-      "projectPath": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\desafio04\\desafio04.csproj",
+      "projectPath": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio04\\desafio04.csproj",
       "packagesPath": "C:\\Users\\natan.vpedroso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\desafio04\\obj\\",
+      "outputPath": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio04\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

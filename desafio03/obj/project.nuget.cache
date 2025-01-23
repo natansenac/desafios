@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i2zu3DsWZaw=",
+  "dgSpecHash": "1bIwZPfBMQ8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\natan.vpedroso\\source\\repos\\desafio01\\desafio03\\desafio03.csproj",
+  "projectFilePath": "C:\\Users\\natan.vpedroso\\source\\repos\\Desafios\\desafio03\\desafio03.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\natan.vpedroso\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],
